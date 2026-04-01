@@ -1,0 +1,7 @@
+Date,Desk,Book,Strategy,Security,Quantity,Price_Currency
+2025-12-08,Americas,US_Tech,Momentum,AAPL,1000,USD
+2025-12-08,Americas,US_Tech,Value,MSFT,500,USD
+2025-12-08,EMEA,EU_Semis,Growth,ASML.AS,200,EUR
+2025-12-08,APAC,JP_Auto,Value,7203.T,5000,JPY
+2025-12-08,EMEA,EU_Banks,Value,BNP.PA,700,EUR
+2025-12-08,EMEA,EU_Energy,Momentum,SHELL.AS,500,EUR
